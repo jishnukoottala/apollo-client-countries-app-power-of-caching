@@ -1,3 +1,12 @@
+# Learn Apollo Client V3 with Kurt Kemple
+
+- countries list app
+- used react spectrum for styling
+- learned graphql client setup
+- learned apollo in memory cache setup
+- learned how to add custom field
+- learned how to get the query from cached result
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
